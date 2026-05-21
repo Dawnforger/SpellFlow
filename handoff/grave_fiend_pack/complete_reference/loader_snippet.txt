@@ -1,0 +1,5 @@
+// Add declaration in a suitable header/unit:
+void AddSC_spell_dk_grave_fiend();
+
+// Call this from your script loader registration function:
+AddSC_spell_dk_grave_fiend();
